@@ -573,6 +573,12 @@ img {
   margin-bottom: var(--mb-1);
 }
 
+.service__title{
+  font-size: var(--h3-font-size);
+  margin-bottom: var(--mb-1);
+  font-weight: var(--font-medium);
+}
+
 .services__button {
   cursor: pointer;
   font-size: var(--small-font-size);
@@ -599,7 +605,7 @@ img {
   transition: 0.3s;
 }
 
-.services__modal-container {
+.services__modal-content {
   position: relative;
   background-color: var(--container-color);
   padding: 1.5rem;
