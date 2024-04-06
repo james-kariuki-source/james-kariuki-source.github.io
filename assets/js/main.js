@@ -107,7 +107,7 @@ let swiperPortfolio = new Swiper(".portfolio__container", {
   },
 })
 
-/*======================== PORTFOLIO ===========================*/
+/*======================== Testimonial ===========================*/
 let swiperTestimonial = new Swiper(".testimonial__container", {
   loop: true,
   grabCursor: true,
